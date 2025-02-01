@@ -43,13 +43,13 @@ pip install streamlit youtube-transcript-api requests
 Start the application using:  
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Or alternatively:  
 
 ```bash
-python -m streamlit run app.py
+python -m streamlit run main.py
 ```
 
 ---
