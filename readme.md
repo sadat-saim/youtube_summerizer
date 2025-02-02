@@ -2,6 +2,9 @@
 
 This is a simple Python application that uses **Streamlit** as a frontend to take a **YouTube video URL** as input and generate a **summary** of the video's content. The summarization is powered by the **DeepSeek-R1 1.5B** model, which runs locally using **Ollama**.  
 
+## 🖥️ Preview
+![preview](/screencapture-localhost-8501-2025-02-01-22_27_35.png)
+
 ## 🚀 Features  
 
 - **📌 Simple & Intuitive UI** – Enter a YouTube URL and get a summarized version of the video.  
